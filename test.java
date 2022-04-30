@@ -22,6 +22,7 @@ public class test extends javax.swing.JFrame {
      //there
       JTextField userName = new JTextField(15);
       userName.setBounds(500, 500, 100, 20);
+      JLabel label = new Jlabel;
       add(userName);
       JPasswordField password = new JPasswordField(15); 
       add(password);
