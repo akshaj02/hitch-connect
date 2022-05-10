@@ -1,0 +1,4 @@
+"Allen","Austin","Carrollton","Cedar Hill","Coppell","Dallas",
+"Denton","Duncanville","Euless","Flower Mound","Forest Hill","Fort Worth","Frisco",
+"Garland","Grand Praire","Grapevine","Haltom City","Hillsboro","Hurst","Irving",
+"Keller","Lewisville","McKinney","Mesquite","North Richland Hills","Plano","Richardson","Southlake"
